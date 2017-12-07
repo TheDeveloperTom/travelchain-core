@@ -51,6 +51,7 @@ add_library( graphene_chain
              protocol/memo.cpp
              protocol/worker.cpp
              protocol/custom.cpp
+             protocol/data.cpp
              protocol/operations.cpp
              protocol/transaction.cpp
              protocol/block.cpp
